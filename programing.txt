@@ -1,1 +1,2 @@
-I love programing python
+I love programing python.
+I like python.
